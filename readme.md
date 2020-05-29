@@ -1,5 +1,3 @@
-# AI
-
 This implements a STRIPS-like kernel intended for use in modeling behaviour of 
 characters and computer controlled opponents in video games.
 
